@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herokuapp.SeleniumBaseTests", "Herokuapp.SeleniumBaseTests\Herokuapp.SeleniumBaseTests.csproj", "{626E2875-E0B1-4F97-BC3D-0ABF900DCF41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{626E2875-E0B1-4F97-BC3D-0ABF900DCF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626E2875-E0B1-4F97-BC3D-0ABF900DCF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626E2875-E0B1-4F97-BC3D-0ABF900DCF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626E2875-E0B1-4F97-BC3D-0ABF900DCF41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {096EC4B3-97A2-4FE3-BDD6-F1932D65F900}
+	EndGlobalSection
+EndGlobal
